@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074027799269",
+    "project_id": "flt-sanal",
+    "storage_bucket": "flt-sanal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074027799269:android:a150601d6fc2594d6cea0c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sanal_lira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074027799269-ftpf0icre0s0p0o61p3rmfain467j7b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OGL2hZvjYYih7wiKnvLnFPFCf99ek44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074027799269-ftpf0icre0s0p0o61p3rmfain467j7b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
